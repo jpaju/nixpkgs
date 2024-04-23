@@ -9903,6 +9903,11 @@
     github = "jpas";
     githubId = 5689724;
   };
+  jpaju = {
+    name = "Jaakko Paju";
+    github = "jpaju";
+    githubId = 36770267;
+  };
   jpdoyle = {
     email = "joethedoyle@gmail.com";
     github = "jpdoyle";
